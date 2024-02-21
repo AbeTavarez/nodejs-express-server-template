@@ -4,12 +4,11 @@ This NodeJS and Express server template contains the basic files, folders, depen
 
 ## Getting Started
 
- 1. Fork this repo by clicking on the Fork button, then click on Create Fork.
- 2. Now Clone it by clicking on the Code (green button) and copy the HTTPS url.
- 3. Open a new terminal, navigate to where you'll like to store this project.
- 4. Now type: `git clone <paste url here>` and press enter.
- 5. Change into the project folder, then type: `npm install`.
- 6. Finally, let's run the server! type: `npm run dev` Done!
+ 1. Clone this repo it by clicking on the Code (green button) and copy the HTTPS url.
+ 2. Open a new terminal, navigate to where you'll like to store this project.
+ 3. Now type: `git clone <paste url here>` and press enter.
+ 4. Change into the project folder, then type: `npm install`.
+ 5. Finally, let's run the server! type: `npm run dev` Done!
 
 ## Folder Structure
 
